@@ -1,0 +1,6 @@
+.hero-bg {
+  background-image: url("../../assets/images/shop-herobg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,13 @@
+export { default as AboutHeroImg } from "./about-herobg.webp";
+export { default as HomeHeroImg } from "./home-herobg.webp";
+export { default as James } from "./james-avatar.webp";
+export { default as OurMissionImg } from "./our-mission.webp";
+export { default as VapePenImg } from "./vape-pen.webp";
+export { default as VapePenImg2 } from "./vape-pen2.webp";
+export { default as VapeImg1 } from "./vapepen1.webp";
+export { default as VapeImg2 } from "./vapepen2.webp";
+export { default as GooglePlusImg } from "./google.svg";
+export { default as BloombergImg } from "./bloomberg.svg";
+export { default as ForbesImg } from "./forbes.svg";
+export { default as InfluenciveImg } from "./influencive.svg";
+export { default as SleepReviewImg } from "./sleep-review.svg";

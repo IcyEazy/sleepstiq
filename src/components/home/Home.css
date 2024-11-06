@@ -1,0 +1,22 @@
+.organization-shadow {
+  box-shadow: 50px 50px 100px 0px #00000025;
+}
+
+.home-hero-bg {
+  background-image: url("../../assets/images/home-herobg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.happy-customers-shadow {
+  box-shadow: 0px 100px 100px 0px #00000025;
+}
+
+.shop-now-shadow {
+  box-shadow: 50px 50px 100px 0px #00000025;
+}
+
+.product-review-shadow {
+  box-shadow: 50px 50px 100px 0px #00000025;
+}

@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.footer {
+  margin: auto;
+  box-sizing: border-box;
+}
+
+/* For screens smaller than 576px */
+@media screen and (max-width: 576px) {
+  body {
+    max-width: 576px;
+  }
+  .footer {
+    max-width: 576px;
+  }
+}
+
+/* For screens between 577px and 768px */
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  body {
+    max-width: 768px;
+  }
+  .footer {
+    max-width: 768px;
+  }
+}
+
+/* For screens between 769px and 992px */
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  body {
+    max-width: 992px;
+  }
+  .footer {
+    max-width: 992px;
+  }
+}
+
+/* For screens between 993px and 1200px */
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+  body {
+    max-width: 1200px;
+  }
+  .footer {
+    max-width: 1200px;
+  }
+}
+
+/* For screens 1201px upwards */
+@media screen and (min-width: 1201px) {
+  body {
+    max-width: 1440px;
+  }
+  .footer {
+    margin: auto;
+  }
+}
+
+/* For most modern browsers */
+.scroll-container {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+.scroll-container::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
