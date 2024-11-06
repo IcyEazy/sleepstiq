@@ -21,7 +21,7 @@ const OurMission = () => {
             <p>✓ Aid Relaxation</p>
           </div>
         </div>
-        <div className="flex-1 lg:flex-none lg:w-[735px] h-full">
+        <div className="flex-1  h-full">
           <img
             src={OurMissionImg}
             alt=""
