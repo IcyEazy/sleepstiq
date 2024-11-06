@@ -22,21 +22,21 @@ The purpose of this application is to provide a user-friendly platform for users
 
 ## Installation
 
-> To install and set up Kuwiya frontend web application on your local machine, follow these steps:
+> To install and set up Sleepstiq frontend web application on your local machine, follow these steps:
 
 1. Clone the repository: git clone <https://github.com/IcyEazy/sleepstiq.git>
-2. Navigate to the project directory: cd frontEnd
+2. Navigate to the project directory: cd sleepstiq
 3. Install the dependencies: npm install
 4. Start the development server: npm run dev
 5. Open your web browser and visit: <http://localhost:5173>
 
 ## Usage
 
-Once the installation is complete, you can start using Kuwiya application. Below are the key features and functionalities provided by the application:
+Once the installation is complete, you can start using Sleepstiq application. Below are the key features and functionalities provided by the application:
 
 ## Features
 
-**Product Page**: The web application is equipped with a dynamic detailed page,that gives you the broadview of the product and also a CTA button to place and order.
+**Product Page**: The web application is equipped with a dynamic detailed page,that gives you the broadview of the product and also a CTA button to place an order.
 **Responsive Design**: The web application is designed to be responsive, ensuring an optimal viewing experience across a range of devices, including desktops, tablets, and mobile phones.
 **User-Friendly Interface**: The application is designed with a clean and intuitive user interface, making it easy for users to navigate, and access relevant information.
 **Faqs**: The application provides you some necessary questions and answers that can be of help to make you know us better.
